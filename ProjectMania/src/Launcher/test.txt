@@ -1,0 +1,361 @@
+﻿bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.500000000, 0.500000000));
+if (c.x) {
+	if (c.y) {
+		bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.250000000, 0.250000000));
+		if (c.x) {
+			if (c.y) {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+			else {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+		}
+		else {
+			if (c.y) {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+			else {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+		}
+	}
+	else {
+		bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.250000000, 0.250000000));
+		if (c.x) {
+			if (c.y) {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+			else {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+		}
+		else {
+			if (c.y) {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+			else {
+				bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.125000000, 0.125000000));
+				if (c.x) {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+				else {
+					if (c.y) {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+					else {
+						bvec2 c = lessThan(gl_FragCoord.xy, f_window * vec2(0.062500000, 0.062500000));
+						if (c.x) {
+							if (c.y) {
+							}
+							else {}
+						}
+						else { if (c.y) {} else {} }
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+﻿  string_test.cpp
+C:\Users\human\source\repos\string_test\string_test\string_test.cpp(16,34): warning C4267: =: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+  Создание кода
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  string_test.vcxproj -> C:\Users\human\source\repos\string_test\x64\Release\string_test.exe

@@ -1,0 +1,3 @@
+﻿  string_test.cpp
+C:\Users\human\source\repos\string_test\string_test\string_test.cpp(16,34): warning C4267: =: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+  string_test.vcxproj -> C:\Users\human\source\repos\string_test\x64\Debug\string_test.exe
